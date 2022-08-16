@@ -1,5 +1,5 @@
 # TrafficRacer
-<img src=https://i.imgur.com/LD9FoBE.png align="right" style="height:400px;" >
+<img src=https://i.imgur.com/LD9FoBE.png align="right" style="height:350px;" >
 2D Traffic Racer built in MIPS Assembly (CSCB58 Final Project)
 
 #### Demo: https://www.youtube.com/watch?v=hZ7JdxFRUMI 
